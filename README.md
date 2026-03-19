@@ -1,35 +1,45 @@
 # Hi, I'm Jason Trickovic, MD 👋
 
-**Family Physician · AI Researcher · Builder**
+**Family Physician · Builder · Healthcare AI**
 
-I'm a practicing family physician and Assistant Professor exploring how AI can genuinely help healthcare — not just promise to. I bridge clinical reality with emerging technology, leading implementation projects and conducting research on what actually works.
+I'm a full-time family physician, assistant professor, and clinical preceptor 
+who builds things at the intersection of medicine and AI. Not commentary — 
+actual projects, with real implementation experience behind them.
 
 ---
 
-### 🔬 Current Work
+## 🔬 Current Work
 
-- **AI-CARE Study** — Co-Investigator on a CIHR-funded RCT comparing AI-generated vs. human-generated patient education materials ([protocol](https://www.medrxiv.org/content/10.1101/2024.12.19.24319381v1))
-- **DAX Copilot Implementation** — Clinical Lead for Microsoft-Nuance ambient AI scribe rollout at The Ottawa Hospital ([case study](https://www.microsoft.com/en/customers/story/25270-the-ottawa-hospital-microsoft-365))
-- **AI Literacy Program** — Designing practical curriculum for physicians and trainees
+- **AI-CARE Study** — Co-investigator on a CIHR-funded RCT comparing 
+  AI-generated vs. human-generated patient education materials. 
+  Protocol accepted at BMJ Open.
+- **DAX Copilot Implementation** — Family Medicine Clinical Lead for 
+  ambient AI scribe rollout at The Ottawa Hospital.
+- **AI Literacy Program** — Practical curriculum for residents and faculty. 
+  Being implemented now.
 
-### 🛠️ Building
+---
 
-- [piezoelectric.ai](https://piezoelectric.ai) — My site on AI in healthcare
-- Field Note Enhancer — AI platform for medical education (in development)
+## 🛠️ Building
 
-### 📚 Background
+- **[piezoelectric.ai](https://piezoelectric.ai)** — Projects, talks, 
+  and thinking on AI in medicine
+- **Ambient Experiential Clinical Coach** — AI tool that turns residency 
+  field notes into active coaching. Early prototype.
+
+---
+
+## 📚 Background
 
 - 🩺 CCFP, CCFP(EM) — Family & Emergency Medicine
 - 🎓 Assistant Professor, University of Ottawa
-- 🤖 AI in Healthcare Certificate (Michener Institute)
-- 💻 Computing in Medicine (T-CAIREM, University of Toronto)
-
-### 📫 Connect
-
-- 🌐 [piezoelectric.ai](https://piezoelectric.ai)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jasontrickovic/)
-- ✉️ jason@piezoelectric.ai
+- 🤖 AI in Healthcare Certificate — Michener Institute
+- 💻 Computing in Medicine — T-CAIREM, University of Toronto
 
 ---
 
-*"Piezoelectric materials convert pressure into power. Healthcare is under immense pressure — my work explores how we can transform that into intelligence that actually helps."*
+## 📫 Connect
+
+- 🌐 [piezoelectric.ai](https://piezoelectric.ai)
+- 💼 [LinkedIn](https://linkedin.com/in/jasontrickovic)
+- ✉️ jason@piezoelectric.ai
