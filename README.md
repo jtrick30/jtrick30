@@ -1,6 +1,6 @@
 # Hi, I'm Jason Trickovic, MD 👋
 
-**Family Physician · Builder · Healthcare AI**
+**Family Physician · Builder · Researcher**
 
 I'm a full-time family physician, assistant professor, and clinical preceptor 
 who builds things at the intersection of medicine and AI. Not commentary — 
