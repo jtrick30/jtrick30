@@ -2,7 +2,7 @@
 
 **Family Physician · Builder · Researcher**
 
-I'm a full-time family physician, assistant professor, and clinical preceptor 
+I'm a family physician, assistant professor, and clinical preceptor 
 who builds things at the intersection of medicine and AI. Not commentary — 
 actual projects, with real implementation experience behind them.
 
@@ -16,7 +16,7 @@ actual projects, with real implementation experience behind them.
 - **DAX Copilot Implementation** — Family Medicine Clinical Lead for 
   ambient AI scribe rollout at The Ottawa Hospital.
 - **AI Literacy Program** — Practical curriculum for residents and faculty. 
-  Being implemented now.
+  Piloted at the Civic Family Health Team, 2025–26.
 
 ---
 
